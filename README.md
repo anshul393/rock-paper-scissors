@@ -18,7 +18,7 @@ This is a solution to the [Frontend Mentor Rock, Paper, Scissors challenge](http
 
 ### Links
 
-- Live Site URL: [Your Live Site]([https://your-live-site-url.com](https://rock-paper-scissors-beryl-tau.vercel.app/))
+- Live Site URL: [Live](https://rock-paper-scissors-beryl-tau.vercel.app/)
 
 ## Features
 
